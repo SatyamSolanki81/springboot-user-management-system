@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spring Boot User Management System
 
 ## Overview
@@ -61,3 +62,7 @@ DELETE /user/deleteUser/{username}
 
 Satyam Solanki
 Aspiring Java Backend Developer
+=======
+# springboot-user-management-system
+Backend application built using Spring Boot, Spring Data JPA, and MySQL to manage users through REST APIs.
+>>>>>>> 3dab7d0e70a5e1bae65d7626495206fb1c04de59
